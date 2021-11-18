@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\bin\Debug\net5.0\StudentsCLass.exe
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\bin\Debug\net5.0\StudentsCLass.deps.json
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\bin\Debug\net5.0\StudentsCLass.runtimeconfig.json
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\bin\Debug\net5.0\StudentsCLass.runtimeconfig.dev.json
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\bin\Debug\net5.0\StudentsCLass.dll
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\bin\Debug\net5.0\ref\StudentsCLass.dll
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\bin\Debug\net5.0\StudentsCLass.pdb
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\StudentsCLass.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\StudentsCLass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\StudentsCLass.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\StudentsCLass.AssemblyInfo.cs
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\StudentsCLass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\StudentsCLass.dll
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\ref\StudentsCLass.dll
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\StudentsCLass.pdb
+C:\Users\User\source\repos\StudentsCLass\StudentsCLass\obj\Debug\net5.0\StudentsCLass.genruntimeconfig.cache
